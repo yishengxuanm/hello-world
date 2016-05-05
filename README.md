@@ -1,2 +1,4 @@
 # hello-world
-First repository
+Hi Geeks,
+
+This is Michael joining you guys.
